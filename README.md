@@ -92,6 +92,8 @@ COPY . .
 EXPOSE 5000
 CMD ["node", "server.js"]
 ```
+## cat Dockerfile showing the content
+
 
 ### 4. Docker Compose
 ```yaml
