@@ -136,6 +136,9 @@ docker ps
 docker-compose down
 ```
 
+## docker-compose up --build running and showing MongoDB Connected
+
+
 ### 6. API Testing Commands
 ```bash
 # Add a student
