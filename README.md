@@ -78,6 +78,10 @@ student-attendance-app/
 ├── docker-compose.yml
 └── package.json
 
+ls && ls src/ showing all the  files and folders
+
+
+
 ### 3. Dockerfile
 ```dockerfile
 FROM node:20-alpine
