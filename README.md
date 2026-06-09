@@ -152,5 +152,5 @@ curl http://localhost:5000/students/
 # Mark attendance
 curl -X PUT http://localhost:5000/students/attendance/<student_id>
 ```
-
+## adding student John Doe and getting the JSON response
 
