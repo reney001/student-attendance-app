@@ -168,3 +168,29 @@ curl -X PUT http://localhost:5000/students/attendance/<student_id>
 ##  viewing students again confirming attendance: 1
 
 ![image alt](https://github.com/reney001/student-attendance-app/blob/854ac30c8bdb800ada80b3f9758413613d0ba0c4/Snipaste_2026-06-09_11-34-52.png)
+
+
+## push to github 
+
+![image alt](https://github.com/reney001/student-attendance-app/blob/bf628bb5bca628ba933ac27855af3de335614164/Snipaste_2026-06-09_11-46-19.png)
+
+## 🏁 Conclusion
+
+This lab successfully demonstrated how to build and deploy a containerized 
+application using Docker and Docker Compose. 
+
+Through building the Student Attendance App, the following was achieved:
+
+- Built a **REST API** using Node.js and Express that handles adding students,
+  marking attendance, and viewing records
+- Connected the API to a **MongoDB** database using Mongoose
+- Containerized the application using a **Dockerfile**
+- Orchestrated multiple containers using **Docker Compose** allowing the 
+  Node.js app and MongoDB to communicate over a Docker network
+- Used **persistent volumes** to ensure data is not lost when containers stop
+- Tested all API endpoints successfully using **curl**
+- Pushed the complete project to **GitHub** for version control
+
+This project provided hands-on experience with real-world DevOps practices 
+including containerization, container networking, environment variables, 
+and REST API development — all essential skills in modern software development.
