@@ -54,6 +54,8 @@ mkdir src models routes
 npm init -y
 npm install express mongoose dotenv cors
 ```
+![image alt](https://github.com/reney001/student-attendance-app/blob/d2cef385a019dedd88f4af86925740739d33cb38/Snipaste_2026-06-09_10-23-05.png)
+
 
 ### 2. Project Structure
 
