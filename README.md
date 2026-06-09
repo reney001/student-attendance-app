@@ -78,9 +78,9 @@ student-attendance-app/
 ├── docker-compose.yml
 └── package.json
 
-ls && ls src/ showing all the  files and folders
+## ls && ls src/ showing all the  files and folders
 
-
+![image alt](https://github.com/reney001/student-attendance-app/blob/ab4e34996f4d3157b8221e0adbf94b280ed74193/Snipaste_2026-06-09_19-32-52.png)
 
 ### 3. Dockerfile
 ```dockerfile
