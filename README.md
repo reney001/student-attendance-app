@@ -120,6 +120,9 @@ volumes:
   mongo-data:
 ```
 
+## cat docker-compose.yml showing the content
+
+
 ### 5. Docker Commands Used
 ```bash
 # Build and start containers
