@@ -159,3 +159,6 @@ curl -X PUT http://localhost:5000/students/attendance/<student_id>
 ## curl http://localhost:5000/students/ showing the list
 
 ![image alt](https://github.com/reney001/student-attendance-app/blob/de89f12bfba6f88e6f0367ce94515b1df2fe1670/Snipaste_2026-06-09_11-34-18.png)
+
+
+##  marking attendance showing attendance: 1
