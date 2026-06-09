@@ -138,6 +138,8 @@ docker-compose down
 
 ## docker-compose up --build running and showing MongoDB Connected
 
+![image alt](https://github.com/reney001/student-attendance-app/blob/11ea42d83be5cf5bd2f4465a04f0ba6aa1586285/Snipaste_2026-06-09_11-05-51.png)
+
 
 ### 6. API Testing Commands
 ```bash
