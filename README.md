@@ -4,7 +4,7 @@ A containerized web application built with Node.js, Express, and MongoDB that al
 
 ## 📌 Lab Overview
 
-This project was built as part of Week 4 Lab Work to learn about containerization using Docker. It demonstrates how to build and run a multi-container application using Docker and Docker Compose.
+This project was built to learn about containerization using Docker. It demonstrates how to build and run a multi-container application using Docker and Docker Compose.
 
 ## 🏗️ Architecture
 Browser
@@ -126,9 +126,4 @@ curl http://localhost:5000/students/
 curl -X PUT http://localhost:5000/students/attendance/<student_id>
 ```
 
-## 📸 Screenshots
-_Add your terminal screenshots here_
 
-## ⚠️ Notes
-- Container images are not pushed to GitHub
-- Images can be pushed to Docker Hub privately
