@@ -94,6 +94,7 @@ CMD ["node", "server.js"]
 ```
 ## cat Dockerfile showing the content
 
+![image alt](https://github.com/reney001/student-attendance-app/blob/81a0d8110c003dc743ce7f8b8009e01f6a69f35d/Snipaste_2026-06-09_10-37-33.png)
 
 ### 4. Docker Compose
 ```yaml
