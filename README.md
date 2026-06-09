@@ -56,6 +56,8 @@ npm install express mongoose dotenv cors
 ```
 ![image alt](https://github.com/reney001/student-attendance-app/blob/d2cef385a019dedd88f4af86925740739d33cb38/Snipaste_2026-06-09_10-23-05.png)
 
+![image alt](https://github.com/reney001/student-attendance-app/blob/3bd685f9995677f0728f9cb0ee16f58e909091ef/Snipaste_2026-06-09_10-26-35.png)
+
 
 ### 2. Project Structure
 
