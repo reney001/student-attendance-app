@@ -122,6 +122,7 @@ volumes:
 
 ## cat docker-compose.yml showing the content
 
+![image alt](https://github.com/reney001/student-attendance-app/blob/30cc3b17c7eedf9ad8d0eef34ad8dbfbb9657831/Snipaste_2026-06-09_10-37-51.png)
 
 ### 5. Docker Commands Used
 ```bash
